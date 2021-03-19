@@ -1,0 +1,9 @@
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+D:\sonar-test\samples-master\samples-master\core\getting-started\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

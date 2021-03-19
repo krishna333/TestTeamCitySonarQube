@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3JbVfKnKIq5lwWW55DsR2Lrk3xmQcDxNJwh+9naxC4jzgdl6Gg6e330r4epHPyqhxNzQKmtwsUbkOVnYOEWjxw==",
+  "success": true,
+  "projectFilePath": "D:\\sonar-test\\samples-master\\samples-master\\core\\getting-started\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krishna Tiwari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Krishna Tiwari\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
